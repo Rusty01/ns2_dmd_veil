@@ -1,6 +1,19 @@
 name        = "ns2_dmd_veil"
 source_dir  = "source"
 output_dir  = "output"
-description = [=[Added weldables]=]
+description = [=[ModID: 1D36AE79
+**Required Mods: Classic Entities Mod 
+
+We've made some changes to Veil to give it some new gameplay! 
+
+Changes: 
+-Added weldable vents in NanoGrid.
+-Added blast door that divides NanoGrid in East/West. 3 min cooldown.
+-Added elevator in Cargo.
+-Alien starting location is Cargo only.
+
+Version Credits: Rusty, WiseChoices 
+
+diamondgamers.net]=]
 image       = "preview.jpg"
-publish_id = "1D36AE79"
+publish_id = "1d36ae79"
