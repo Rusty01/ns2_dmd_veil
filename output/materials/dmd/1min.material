@@ -1,3 +1,4 @@
-shader = "shaders/Emissive.surface_shader"
-albedoMap = "materials/dmd/1min.dds"
-normalMap = "materials/dmd/1min.dds"
+shader 			= "models/hologram.surface_shader"
+emissiveMap 	= "materials/dmd/1min.dds"
+flickerMap  	= "models/flicker.dds"
+flickerSpeed 	= 0.1
